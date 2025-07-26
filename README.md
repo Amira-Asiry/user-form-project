@@ -1,4 +1,4 @@
-<img width="1037" height="646" alt="image" src="https://github.com/user-attachments/assets/6381608a-d15d-4732-ba05-6fa6212b95e1" /># User Form Project
+## User Form Project
 A simple web application built with **HTML, CSS, JavaScript, PHP, and MySQL**.  
 It allows adding users with their **name** and **age**, storing them in a MySQL database, displaying all users in a table, and toggling their status between **0 and 1**.
 
