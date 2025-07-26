@@ -44,9 +44,10 @@ CREATE TABLE users (
   status INT(1) DEFAULT 0
 );
 
+
 ---
 
-## How to Run the project
+How to Run the project
 1. Install XAMPP and start Apache and MySQL.
 2. Copy the project folder to:
 C:\xampp\htdocs\user_form_project
