@@ -44,11 +44,15 @@ CREATE TABLE users (
   status INT(1) DEFAULT 0
 );
 
-##  How to Run the Project
+---
+
+## How to Run the project
 1. Install XAMPP and start Apache and MySQL.
 2. Copy the project folder to:
 C:\xampp\htdocs\user_form_project
 3. Open the project in your browser:
 http://localhost/user_form_project/
+
+---
 
 Project created as part of the Smart Methods Summer Training Task.
